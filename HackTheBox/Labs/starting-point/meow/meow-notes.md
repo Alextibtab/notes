@@ -1,5 +1,9 @@
 ---
-lab_type: [[Starting Point Labs]]
+id: meow-notes
+aliases: []
+tags: []
+lab_type:
+  - - Starting Point Labs
 platform: HTB
 ---
 Machine Name: Meow
