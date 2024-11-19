@@ -2,10 +2,10 @@
 Resource: Cyber Security
 Module Name: "HTB: Getting Started"
 Module Tier: 0
-Platform: HTB
+Platform: HackTheBox
 tags:
-  - "#htb"
-  - "#tier_0"
+  - htb
+  - tier_0
 ---
 # Connecting Using a VPN
 ---

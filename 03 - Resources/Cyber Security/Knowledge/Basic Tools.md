@@ -4,8 +4,8 @@ Module Name: "HTB: Getting Started"
 Module Tier: 0
 Platform: HackTheBox
 tags:
-  - "#htb"
-  - "#tier_0"
+  - htb
+  - tier_0
 ---
 # Basic Tools
 ---

@@ -1,7 +1,11 @@
 ---
-thm_path: Red Team Fundamentals
-thm_room: https://tryhackme.com/room/redteamfundamentals
-platform: THM
+Resource: Cyber Security
+THM Path: Red Team Fundamentals
+THM Room: https://tryhackme.com/room/redteamfundamentals
+Platform: TryHackMe
+tags:
+  - thm
+  - red_team_path
 ---
 # Red Team Fundamentals
 
@@ -58,6 +62,3 @@ Depending on the resources available the red team exercise can be run in several
 |Red Team Operator |Executes assignments delegated by team leads. Interpret and analyse engagement plans from team leads. |
 
 # TODO Cyber Kill Chain
-
-thm_room: https://tryhackme.com/room/redteamfundamentals
-tags: #THM #Red_Team_Path

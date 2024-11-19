@@ -1,7 +1,11 @@
 ---
-module_tier: 0
-module_name: [[Getting Started Module]]
-platform: HTB
+Resource: Cyber Security
+Module Name: "HTB: Getting Started"
+Module Tier: 0
+Platform: HackTheBox
+tags:
+  - htb
+  - tier_0
 ---
 # Infosec Overview
 
@@ -49,6 +53,3 @@ Information security is vast field including specializations such as;
 ---
 
 A security assessor (network penetration tester, web application tester, red teamer, etc.) helps an organisation identify risks in it's external and internal networks.
-
-up: [[Getting Started Module]]
-tags: #HTB #Tier_0 #Getting_Started 

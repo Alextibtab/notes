@@ -4,8 +4,8 @@ Module Name: "HTB: Getting Started"
 Module Tier: 0
 Platform: HackTheBox
 tags:
-  - "#htb"
-  - "#tier_0"
+  - htb
+  - tier_0
 ---
 # Common Terms
 ---
@@ -13,7 +13,7 @@ Penetration testing/hacking is an enormous field. Encountering countless technol
 
 # What is a Shell?
 ---
-`Shell` is a very common term that will be seen many times throughout this HTB journey. It has a few meanings. On a Linux system, the shell is a program that takes input from the user via the keyboard and passes these commands to the operating system to perform a specific function. In the early days, the shell was the only interface available for interacting with systems. Since then, many more operating system types and versions have emerged along with the graphic user interface (GUI) to complement shells, such as Linux Terminal, Windows Command-Line, and Windows PowerShell.
+`Shell` is a very common term that will be seen many times throughou[[Basic Tools]]t this HTB journey. It has a few meanings. On a Linux system, the shell is a program that takes input from the user via the keyboard and passes these commands to the operating system to perform a specific function. In the early days, the shell was the only interface available for interacting with systems. Since then, many more operating system types and versions have emerged along with the graphic user interface (GUI) to complement shells, such as Linux Terminal, Windows Command-Line, and Windows PowerShell.
 
 Most Linux systems use a program called Bash (Bourne Again Shell) as a shell program to interact with the operating system. Bash is an advanced version of `sh`, the Unix systems' original shell program. Aside from `bash` there are also other shells, including but not limited to `Zsh, Tcsh, Ksh, Fish shell`, etc.
 

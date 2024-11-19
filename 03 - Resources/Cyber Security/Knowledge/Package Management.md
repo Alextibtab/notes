@@ -1,7 +1,11 @@
 ---
-module_tier: 0
-module_name: [[Linux Fundamentals Module]]
-platform: HTB
+Resource: Cyber Security
+Module Name: "HTB: Getting Started"
+Module Tier: 0
+Platform: HackTheBox
+tags:
+  - htb
+  - tier_0
 ---
 # Package Management
 ---
@@ -14,5 +18,3 @@ platform: HTB
 | `gem`      | Gem is the front-end to RubyGems, the standard package manager for ruby                                                                      |
 | `pip`      | Python package manager                                                                                                                       |
 | `git`      | Git is a revision control system commonly used to store source code for application or tools for easier development                          | 
-up: [[Linux Fundamentals Module]]
-tags: #HTB #Tier_0 #Linux_Fundamentals 

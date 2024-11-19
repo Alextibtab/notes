@@ -1,7 +1,11 @@
 ---
-module_tier: 0
-module_name: [[Getting Started Module]]
+Resource: Cyber Security
+Module Name: "HTB: Getting Started"
+Module Tier: 0
 platform: HTB
+tags:
+  - htb
+  - tier_0
 ---
 # Service Scanning
 ---

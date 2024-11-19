@@ -3,8 +3,8 @@ Resource: Cyber Security
 Platform: TryHackMe
 THM Room: https://tryhackme.com/room/winadbasics
 tags:
-  - "#thm"
-  - "#active_directory"
+  - thm
+  - active_directory
 ---
 # Windows Active Directory Basics
 ## Windows Domains

@@ -1,7 +1,11 @@
 ---
-module_tier: 0
-module_name: [[Linux Fundamentals Module]]
-platform: HTB
+Resource: Cyber Security
+Module Name: "HTB: Getting Started"
+Module Tier: 0
+Platform: HackTheBox
+tags:
+  - htb
+  - tier_0
 ---
 # Linux Structure
 ---
@@ -61,6 +65,3 @@ Linux is available in over 600 distributions based on the Linux kernel. Linux is
 | `/tmp`   | The operating system and many programs use this directory to store temporary files. This directory is generally cleared upon system-boot and may be deleted at other times without any warning.                                                                                                                                  |
 | `/usr`   | Contains executables, libraries, man files, etc.                                                                                                                                                                                                                                                                                 |
 | `/var`   | This directory contains variable data files such as log files etc.                                                                                                                                                                                                                                                               | 
-
-up: [[Linux Fundamentals Module]]
-tags: #HTB #Tier_0 #Linux_Fundamentals 
