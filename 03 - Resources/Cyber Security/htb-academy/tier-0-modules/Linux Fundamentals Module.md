@@ -1,11 +1,14 @@
 ---
+up:
+  - - Tier 0 Modules
+area: Cyber Security
 platform: HTB
-module_collection: [[Tier 0 Modules]]
+tags:
+  - "#htb"
+  - tier_0
+  - linux_fundamentals
 ---
 ```dataview
 LIST
 FROM [[Linux Fundamentals Module]]
 ```
-
-up: [[Tier 0 Modules]]
-tags: #HTB #Tier_0 #Linux_Fundamentals 

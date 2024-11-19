@@ -1,3 +1,7 @@
+---
+Resource: Web Development
+Course: https://frontendmasters.com/courses/web-development-v3/
+---
 # Course Projects
 
 ### HTML Project
