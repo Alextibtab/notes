@@ -1,7 +1,11 @@
 ---
-module_tier: 0
-module_name: [[Linux Fundamentals Module]]
-platform: HTB
+Resource: Cyber Security
+Module Name: "HTB: Linux Fundamentals"
+Module Tier: 0
+Platform: HackTheBox
+tags:
+  - htb
+  - tier_0
 ---
 # User Management
 ---

@@ -1,8 +1,11 @@
 ---
-thm_room: https://tryhackme.com/room/chocolatefactory
-platform: THM
+Resource: Cyber Security
+THM Room: https://tryhackme.com/room/chocolatefactory
+Platform: TryHackMe
+tags:
+  - thm
+  - lab
 ---
-
 # Chocolate Factory
 
 ## NMAP Scan
@@ -51,6 +54,3 @@ sudo nmap -sS -sV -O -p- 10.10.40.128 -oX nmap
 ```bash
 sudo gobuster dir -u http://10.10.40.128 -w ~/Tools/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
 ```
-thm_room: https://tryhackme.com/room/chocolatefactory
-tags: #THM #CTF #Challenge 
-

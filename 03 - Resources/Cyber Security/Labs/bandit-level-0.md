@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+OTW Game: bandit
+Platform: OverTheWire
+tags:
+  - lab
+  - overthewire
+---
 Level Goal: Log into the game with SSH
 User: bandit0
 Pass: bandit0

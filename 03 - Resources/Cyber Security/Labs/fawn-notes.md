@@ -1,6 +1,11 @@
 ---
-lab_type: [[Starting Point Labs]]
-platform: HTB
+Resource: Cyber Security
+Lab Type: "HTB: Starting Point Labs"
+Platform: HackTheBox
+tags:
+  - htb
+  - lab
+  - starting_point
 ---
 Machine Name: Fawn
 Machine IP: 10.129.1.14
@@ -32,6 +37,3 @@ Task 8: From your scans, what OS type is running on the target? unix
 ![[fawnFtp.png]]
 
 Root Flag: 035db21c881520061c53e0536e44f815
-
-up: [[Starting Point Labs]]
-tags: #HTB #Starting_Point #Labs 

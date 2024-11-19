@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+Lab Type: "HTB: Retired"
+Platform: HackTheBox
+tags:
+  - htb
+  - "#lab"
+---
 Machine name: Forest
 Machine IP: 10.129.95.210
 

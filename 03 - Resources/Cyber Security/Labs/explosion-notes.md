@@ -1,6 +1,11 @@
 ---
-lab_type: [[Starting Point Labs]]
-platform: HTB
+Resource: Cyber Security
+Lab Type: "HTB: Starting Point Labs"
+Platform: HackTheBox
+tags:
+  - htb
+  - lab
+  - starting_point
 ---
 Machine Name: Explosion
 Machine IP: 10.129.1.13
@@ -34,6 +39,3 @@ Task 8: What is the switch used to specify the target host's IP address when usi
 ![[explosionRDP.png]]
 
 Root flag: 951fa96d7830c451b536be5a6be008a0
-
-up: [[Starting Point Labs]]
-tags: #HTB #Starting_Point #Labs 
