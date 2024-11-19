@@ -1,10 +1,11 @@
 ---
-id: meow-notes
-aliases: []
-tags: []
-lab_type:
-  - - Starting Point Labs
-platform: HTB
+Resource: Cyber Security
+Lab Type: "HTB: Starting Point Labs"
+Platform: HackTheBox
+tags:
+  - htb
+  - lab
+  - starting_point
 ---
 Machine Name: Meow
 Machine IP: 10.129.28.117
@@ -32,6 +33,3 @@ Task 6: What is the name of the tool we use to scan the target's ports? nmap
 ![[meowTelnet.png]]
 
 Root flag: b40abdfe23665f766f9c61ecba8a4c19
-
-up: [[Starting Point Labs]]
-tags: #HTB #Starting_Point #Labs 
