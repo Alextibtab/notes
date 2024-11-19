@@ -1,7 +1,11 @@
 ---
-module_tier: 0
-module_name: [[Getting Started Module]]
-platform: HTB
+Resource: Cyber Security
+Module Name: "HTB: Getting Started"
+Module Tier: 0
+Platform: HackTheBox
+tags:
+  - "#htb"
+  - "#tier_0"
 ---
 # Basic Tools
 ---
@@ -12,7 +16,7 @@ platform: HTB
 
 # Using SSH
 ---
-Secure Shell (SSH) is a network protocol that runs on port `22` by default and provides users such as system administrators a secure way to access a computer remotely. SSH can be configured with password authentication or passwordless using public-key authentication using an SSH public/private key pair. SSH can be used to remotely access systems on the same network , over the internet, facilitate connections to resources in other networks using port forwarding/proxying, and upload/download files to and from the remote systems.
+Secure Shell (SSH) is a network protocol that runs on port `22` by def[[Common Tools]]ault and provides users such as system administrators a secure way to access a computer remotely. SSH can be configured with password authentication or passwordless using public-key authentication using an SSH public/private key pair. SSH can be used to remotely access systems on the same network , over the internet, facilitate connections to resources in other networks using port forwarding/proxying, and upload/download files to and from the remote systems.
 
 SSH uses a client-server model, connecting a user running an SSH client application such as `OpenSSH` to an SSH server. While attacking a box or during a real world assessment , SSH is often used once obtaining credentials or an SSH private key to obtain an SSH connection to the machine.
 
@@ -55,13 +59,10 @@ Normal mode commands:
 
 When in normal mode you can type `:` followed by characters to perform certain commands
 
-| Command | Description          |
-| ------- | -------------------- |
-| `:1`    | Go to line number 1  |
-| `:w`    | Write the file, save |
-| `:q`    | Quit                 |
-| `:q!`   | Quit without saving  |
-| `:wq`   | Write and quit       | 
-
-up: [[Getting Started Module]]
-tags: #HTB #Tier_0 #Getting_Started 
+| Command | Description          |     |
+| ------- | -------------------- | --- |
+| `:1`    | Go to line number 1  |     |
+| `:w`    | Write the file, save |     |
+| `:q`    | Quit                 |     |
+| `:q!`   | Quit without saving  |     |
+| `:wq`   | Write and quit       |     |
