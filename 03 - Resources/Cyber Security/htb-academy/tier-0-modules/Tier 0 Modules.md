@@ -1,6 +1,8 @@
 ---
-tier_collection: [[HTB Modules]]
+tier_collection:
+  - - HTB Modules
 platform: HTB
+tier:
 ---
 ```dataview
 LIST
