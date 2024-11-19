@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+OTW Game: bandit
+Platform: OverTheWire
+tags:
+  - overthewire
+  - lab
+---
 Level Goal: The password for the next level is stored in a file somewhere under the **inhere** directory and has all of the following properties:
 
 - human-readable

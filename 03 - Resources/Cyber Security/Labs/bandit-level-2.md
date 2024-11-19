@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+OTW Game: bandit
+Platform: OverTheWire
+tags:
+  - overthewire
+  - lab
+---
 Level Goal: The password for the next level is stored in a file called **-** located in the home directory
 
 solution: research how to cat file with the filename -

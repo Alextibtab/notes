@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+OTW Game: bandit
+Platform: OverTheWire
+tags:
+  - overthewire
+  - lab
+---
 Level Goal: Password for next level is stored in file called readme
 
 Solution:

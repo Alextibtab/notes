@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+OTW Game: bandit
+Platform: OverTheWire
+tags:
+  - overthewire
+  - lab
+---
 Level Goal: The password for the next level is stored in the only human-readable file in the **inhere** directory. Tip: if your terminal is messed up, try the “reset” command.
 
 Solution: use file command to see which file is ASCII text

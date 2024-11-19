@@ -1,3 +1,11 @@
+---
+Resource: Cyber Security
+OTW Game: bandit
+Platform: OverTheWire
+tags:
+  - overthewire
+  - lab
+---
 Level Goal: The password for the next level is stored **somewhere on the server** and has all of the following properties:
 
 - owned by user bandit7
