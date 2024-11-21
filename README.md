@@ -9,25 +9,24 @@ The Maps of Content(MOCs) folder contains various ways of grouping notes into re
 
 # Vault Organisation
 
-┗━━ public-notes
-
-    ┣━━ 00 - Maps of Content
-    ┣━━ 01 - Projects
-    ┃   ┗━━ Portfolio Site
-    ┣━━ 02 - Areas
-    ┃   ┣━━ Art
-    ┃   ┣━━ Cyber security
-    ┃   ┣━━ Game Development
-    ┃   ┣━━ Japanese Learning
-    ┃   ┣━━ Piano
-    ┃   ┣━━ Programming
-    ┃   ┗━━ Web Development
-    ┣━━ 03 - Resources
-    ┃   ┣━━ Note Taking
-    ┃   ┗━━ Tools and Useful Commands
-    ┣━━ 04 - Permanent
-    ┣━━ 05 - Fleeting
-    ┣━━ 06 - Daily
-    ┣━━ 07 - Archives
-    ┗━━ 99 - Meta
-        ┗━━  Templates
+┗━━ public-notes  
+    ┣━━ 00 - Maps of Content  
+    ┣━━ 01 - Projects  
+    ┃   ┗━━ Portfolio Site  
+    ┣━━ 02 - Areas  
+    ┃   ┣━━ Art  
+    ┃   ┣━━ Cyber security  
+    ┃   ┣━━ Game Development  
+    ┃   ┣━━ Japanese Learning  
+    ┃   ┣━━ Piano  
+    ┃   ┣━━ Programming  
+    ┃   ┗━━ Web Development  
+    ┣━━ 03 - Resources  
+    ┃   ┣━━ Note Taking  
+    ┃   ┗━━ Tools and Useful Commands  
+    ┣━━ 04 - Permanent  
+    ┣━━ 05 - Fleeting  
+    ┣━━ 06 - Daily  
+    ┣━━ 07 - Archives  
+    ┗━━ 99 - Meta  
+        ┗━━  Templates  
