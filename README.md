@@ -1,14 +1,17 @@
 # Obsidian Public Notes
 
 ## Notes Structure
-- public-notes
-	- 100-days-of-code-python
-	- generative-programming
-	- hackthebox
-	- htb-academy
-	- overthewire - Wargames
-	- templates
-	- tools-and-useful-stuff
-	- tryhackme
-	- web-development
-	- README
+public-notes
+┗━┳━ 00 - Maps of Content
+  ┣━ 01 - Projects
+  ┣━ 02 - Areas
+  ┣━ 03 - Resources
+  ┣━ 04 - Permanent
+  ┣━ 05 - Fleeting
+  ┣━ 06 - Daily
+  ┣━ 07 - Archives
+  ┗━ 99 - Meta
+
+
+┃
+┣━┏
