@@ -12,5 +12,3 @@
 	- tryhackme
 	- web-development
 	- README
-
-## Plugins
