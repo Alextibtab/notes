@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - generative_programming
+  - programming
+  - javascript
+---
 # Topic / Title: rectMode() and ellipseMode()
 
 2023-01-07
@@ -27,6 +36,3 @@ ellipseMode(CORNER);
 `ellipseMode()`
 # Summary
 How to change how shapes are drawn.
-
-Related: [[essentials course]]
-Tags: #generativeProgramming #timrodenbroeker 

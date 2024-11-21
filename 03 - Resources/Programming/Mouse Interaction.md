@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - programming
+  - generative_programming
+  - javascript
+---
 # Topic / Title: Mouse Interaction
 
 2023-01-08
@@ -33,6 +42,3 @@ If instead you want to query whether the mouse is being pressed inside the draw 
 `mouseReleased()`
 # Summary
 Some variables and functions that can be used to query where the mouse is and if the user is clicking the mouse.
-
-Related: [[essentials course]]
-Tags: #generativeProgramming #timrodenbroeker 

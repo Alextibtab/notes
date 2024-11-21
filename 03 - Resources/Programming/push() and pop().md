@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - generative_programming
+  - programming
+  - javascript
+---
 # Topic / Title: push() and pop()
 
 2023-01-08
@@ -41,6 +50,3 @@ void draw() {
 `pop()`
 # Summary
 How to apply transformations to objects invdividually/grouped instead of globally
-
-Related: [[essentials course]]
-Tags: #generativeProgramming #timrodenbroeker 

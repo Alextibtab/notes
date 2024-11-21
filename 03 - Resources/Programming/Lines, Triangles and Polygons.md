@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - generative_programming
+  - programming
+  - javascript
+---
 # Topic / Title: Lines, Triangles and Polygons
 
 2023-01-08
@@ -24,6 +33,3 @@ To draw more complex shapes there is the following functions `beginShape()`, `ve
 `endShape()`
 # Summary
 How to draw lines, triangles and custom complex shapes.
-
-Related:  [[essentials course]] 
-Tags: #generativeProgramming #timrodenbroeker 

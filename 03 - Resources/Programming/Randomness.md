@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - generative_programming
+  - programming
+  - javascript
+---
 # Topic / Title: Randomness
 
 2023-01-08
@@ -11,6 +20,3 @@ The `random()` function can take either one or two functions if one parameter is
 `random()`
 # Summary
 How to get random numbers in P5.js
-
-Related: [[essentials course]]
-Tags: #generativeProgramming #timrodenbroeker  

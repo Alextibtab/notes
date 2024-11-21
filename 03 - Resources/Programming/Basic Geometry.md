@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - programming
+  - generative_programming
+  - javascript
+---
 # Topic / Title: Basic Geometry 
 
 2023-01-07
@@ -25,6 +34,3 @@ Also some new keywords: `mouseX`, `mouseY` these are handy variables P5js provid
 `mouseY`
 # Summary
 Basic functions for drawing shapes are `rect()` and `ellipse()`
-
-related: [[essentials course]]
-tags: #generativeProgramming #timrodenbroeker 

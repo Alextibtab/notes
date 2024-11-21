@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - programming
+  - generative_programming
+  - javascript
+---
 # Topic / Title: Styling Shapes with Stroke and Fill
 
 2023-01-07
@@ -40,6 +49,3 @@ These functions will only affect the shape if executed before drawing the shape 
 
 # Summary
 How to style shapes
-
-Related: [[essentials course]]
-Tags: #generativeProgramming #timrodenbroeker 

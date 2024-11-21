@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - generative_programming
+  - programming
+  - javascript
+---
 # Topic / Title: Geometric Typography
 
 2023-01-08
@@ -74,6 +83,3 @@ function draw() {
 }
 ```
 ![[geometricTypography.png]]
-
-Related: [[essentials course]]
-Tags: #generativeProgramming #timrodenbroeker 

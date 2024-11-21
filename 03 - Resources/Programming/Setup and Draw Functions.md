@@ -1,3 +1,12 @@
+---
+Resource: Programming
+Language: JavaScript
+Course: https://timrodenbroeker.de/courses/essentials/
+tags:
+  - generative_programming
+  - programming
+  - javascript
+---
 # Topic / Title: Setup and Draw
 
 2023-01-07
@@ -39,6 +48,3 @@ ps. background can take RGBA parameters as well to specify transparency
 
 # Summary
 Every P5.js has the same base structure a `setup()` function that is initially ran to configure the sketch and then a `draw()` function which will keep being called until the program is suspended.
-
-related: [[essentials course]]
-tags: #generativeProgramming #timrodenbroeker 
