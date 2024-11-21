@@ -10,6 +10,7 @@ The Maps of Content(MOCs) folder contains various ways of grouping notes into re
 # Vault Organisation
 
 ┗━━ public-notes
+
     ┣━━ 00 - Maps of Content
     ┣━━ 01 - Projects
     ┃   ┗━━ Portfolio Site
