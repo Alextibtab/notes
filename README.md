@@ -15,7 +15,7 @@ The Maps of Content(MOCs) folder contains various ways of grouping notes into re
     ┃   ┗━━ Portfolio Site  
     ┣━━ 02 - Areas  
     ┃   ┣━━ Art  
-    ┃   ┣━━ Cyber security  
+    ┃   ┣━━ Cyber Security  
     ┃   ┣━━ Game Development  
     ┃   ┣━━ Japanese Learning  
     ┃   ┣━━ Piano  
