@@ -8,7 +8,7 @@ The note organisation follows the **P**rojects **A**reas **R**esources **A**rchi
 The Maps of Content(MOCs) folder contains various ways of grouping notes into related categories to help navigate through the vault
 
 # Vault Organisation
-
+```css
 ┗━━ public-notes  
     ┣━━ 00 - Maps of Content  
     ┣━━ 01 - Projects  
@@ -30,3 +30,4 @@ The Maps of Content(MOCs) folder contains various ways of grouping notes into re
     ┣━━ 07 - Archives  
     ┗━━ 99 - Meta  
         ┗━━  Templates  
+```
