@@ -5,12 +5,18 @@
 #### HackTheBox
 ```dataview
 TABLE 
-    module-name as "Module"
-WHERE Platform = "HackTheBox" AND #lab
+    module-name as "Module",
+    file.mtime as "Modified"
+FROM -#lab
+WHERE Platform = "HackTheBox"
 ```
 #### TryHackMe
 ```dataview
-TABLE WHERE Platform = "TryHackMe"
+TABLE 
+    thm-path as "Module",
+    file.mtime as "Modified"
+FROM -#lab
+WHERE Platform = "TryHackMe"
 ```
 #### OverTheWire
 ### Notes
