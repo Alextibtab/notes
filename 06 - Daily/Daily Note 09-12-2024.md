@@ -1,10 +1,12 @@
 ---
-Date: 2024-12-10T00:32
+Date: 2024-12-10T00:43
 tags:
-  - daily
+    - daily
+    - December
+    - Y2024
 cssclasses:
-  - daily
-  - monday
+    - daily
+    - monday
 ---
 # DAILY NOTE
 ## Monday, December 9th, 2024
