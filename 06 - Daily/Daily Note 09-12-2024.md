@@ -6,7 +6,7 @@ cssclasses:
   - daily
 ---
 # DAILY NOTE
-## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
+## Monday, December 9th, 2024
 ***
 ### Journal
 #### Time
