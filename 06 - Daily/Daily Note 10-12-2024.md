@@ -1,13 +1,13 @@
 ---
-Date: 2024-12-10T00:32
+Date: 2024-12-10T00:33
 tags:
   - daily
 cssclasses:
   - daily
-  - monday
+  - tuesday
 ---
 # DAILY NOTE
-## Monday, December 9th, 2024
+## Tuesday, December 10th, 2024
 ***
 ### Journal
 #### Time
