@@ -13,6 +13,8 @@ cssclasses:
 ***
 ### Journal
 #### Time
+
+##### 10:30
 ***
 ### Tasks
 - [ ] Task 1
