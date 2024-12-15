@@ -169,5 +169,43 @@ keywords = ["alpaca", "bar", "cheese"]
 
 #### `classifiers`
 
-A list of PyPi
+A list of PyPI Classifiers
+
+```toml
+[project]
+classifiers = [
+    # How mature is this project?
+    # 3 - Alpha
+    # 4 - Beta
+    # 5 - Production
+    "Development Status :: 4 - Beta",
+
+    # Intended Audience
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Build Tools",
+
+    # License
+    "License :: OSI Approved :: MIT License",
+
+    # Supported Python versions
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+]
+```
+
+to prevent a package from being uploaded to PyPI use the special `Private :: Do Not Upload` classifier. PyPI will always reject any package containing a classifier that begins with `Private ::`
+
+#### `urls`
+
+A list of URLs associated with the project such as project homepage, documentation and repository.
+
+```toml
+[project.urls]
+Homepage = "https://example.com"
+Documentation = "https://readthedocs.org"
+Repository = "https://github.com/me/foo.git"
+Issues = "https://github.com/me/foo/issues"
+```
+
+Advised to use well known labels as PyPI might render certain labels differently.
 
