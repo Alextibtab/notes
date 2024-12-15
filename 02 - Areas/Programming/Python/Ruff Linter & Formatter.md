@@ -5,6 +5,5 @@ tags:
   - programming
   - python
   - cicd
-  - automation
-cssclasses: []
+cssclasses:
 ---
