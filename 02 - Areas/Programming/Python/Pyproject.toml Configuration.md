@@ -43,7 +43,7 @@ The project name must consist of ASCII letters, digits `_`, `-` and `.` but must
 
 ```toml
 [project]
-name = "foo-bar
+name = "foo-bar"
 ```
 
 #### `version`
@@ -81,4 +81,93 @@ dev = ["black", "ruff", "tox"]
 ```
 
 Each of these keys define a "packaging extra" that mean when you pip install your project you can specify what dependencies to install `pip install project-name[gui,dev]`
+
+#### `requires-python`
+Declare the minimum version of python that's supported.
+
+```toml
+[project]
+requires-python = ">= 3.9"
+```
+
+### Creating scripts
+
+#### `[projects.scripts]`
+To install a command as part of the package you can use the `[project.scripts]` table.
+
+```toml
+[project.scripts]
+foo-cli = "foo:main"
+```
+
+this would let you run `foo-cli` in a terminal and it will automatically run the `main()` function defined in `foo`
+
+#### `[project.gui-scripts]`
+The default `[project.scripts]` requires a terminal to work so if this command was launched through a GUI it would open a terminal to avoid this the `[project.gui-scripts]` table can be used instead. **This difference is only relevant on windows**
+
+```toml
+[project.gui-scripts]
+foo-gui = "foo:main_gui"
+```
+
+### About Your project
+
+#### `authors`
+List of authors for the project including name and/or an email address
+```toml
+[project]
+authors = [
+    {name = "Foo Bar", email = "foo@bar.com"},
+    ...
+]
+```
+
+#### `maintainers`
+List of maintainers for the project including name and/or email address
+```toml
+[project]
+maintainers = [
+    {name = "Foo Bar", email = "foo@bar.com"},
+    ...
+]
+```
+
+#### `description`
+Short one-line description of the project will be shown as a headline on PyPi and search results
+```toml
+[project]
+description = "My Amazing Project!"
+```
+
+#### `readme`
+A longer description that will typically point to either a `README.md` or `README.rst` file.
+
+```toml
+[project]
+readme = "README.md"
+```
+
+#### `license`
+Project license either a file or name of License
+```toml
+[project]
+license = {file = "LICENSE"}
+```
+
+```toml
+[project]
+license = {text = "MIT License"}
+```
+if using a common license you can omit this field and instead use one of the classifiers starting with `License ::`
+
+#### `keywords`
+Keywords that will help PyPi search suggest your package
+```toml
+[project]
+keywords = ["alpaca", "bar", "cheese"]
+```
+
+#### `classifiers`
+
+A list of PyPi
 
