@@ -69,5 +69,6 @@ the above example shows configuring an additional `docs` environment which you c
 
 to run the custom scripts you would run `hatch run docs:serve` if you wanted to gain a shell into the `docs` environment you'd run `hatch -e docs shell`
 
+#### M
 #### Removal
 You can use `hatch env remove` to remove individual environments or `hatch env prune` to delete an entire projects environments
