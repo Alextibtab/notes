@@ -11,8 +11,22 @@ cssclasses:
 ---
 # Hatch Cheat Sheet
 ## Useful Commands
-`hatch run`
 
+`hatch build` - build a project
+`hatch clean` - remove build artifacts
+`hatch fmt` - format and lint source code
+    `--check` - only check don't fix
+    `-l` - only lint
+    `-f` - only format 
+`hatch new` - create/initialise a project
+    `-i` - interactive prompt
+    `--init` - initialise project
+`hatch python show` - show available python distributions
+`hatch python install` - install python versions
+`hatch python remove` - remove python versions
+`hatch run` - run commands within project environments
+`hatch shell` - get shell in project environment
+`hatch test` - run tests uses the `hatch-test` environment matrix for configuring 
 ## Example pyproject.toml
 ```toml
 [build-systeml]
@@ -70,5 +84,5 @@ features = [
 hello_world = "cowsay -t 'Hello, World!'"
 
 [[tool.hatch.envs.test.matrix]]
-python = ["3.11","4."]
+python = ["3.11", "3.12"]
 ```
