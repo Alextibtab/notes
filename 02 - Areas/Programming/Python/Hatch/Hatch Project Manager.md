@@ -59,6 +59,9 @@ environments will work with normal project dependencies but you can also create 
 dependencies = [
     "mkdocs"
 ]
+features = [
+    "dev" # this will pull from the projects optional dependencies
+]
 
 [tool.hatch.envs.docs.scripts]
 build = "mkdocs build --clean --strict"
@@ -69,6 +72,8 @@ the above example shows configuring an additional `docs` environment which you c
 
 to run the custom scripts you would run `hatch run docs:serve` if you wanted to gain a shell into the `docs` environment you'd run `hatch -e docs shell`
 
-#### M
+#### Matrices
+Environments can have a defined series of matrices using the matrix option that lets you create an environment that runs on multiple different versions of python.
+
 #### Removal
 You can use `hatch env remove` to remove individual environments or `hatch env prune` to delete an entire projects environments
