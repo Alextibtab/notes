@@ -1,35 +1,17 @@
 ---
-Date: <%tp.date.now("YYYY-MM-DD")%>T<%tp.date.now("HH:mm")%>
+Date: 2024-12-22T16:27
 tags:
     - daily
-    <% "- " + tp.date.now("MMMM", 0, tp.file.title, "DD-MM-YYYY") %>
-    <% "- Y" + tp.date.now("YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
+    - December
+    - Y2024
 cssclasses:
     - daily
-    <% "- " + tp.date.now("dddd", 0, tp.file.title, "DD-MM-YYYY").toLowerCase() %>
+    - sunday
 ---
 # DAILY NOTE
-## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
+## Sunday, December 22nd, 2024
 ***
 ### Journal
-
-#### 09:00
-
-#### 10:00
-
-#### 11:00
-
-#### 12:00
-
-#### 13:00
-
-#### 14:00
-
-#### 15:00
-
-#### 16:00
-
-#### 17:00
 
 ***
 ### Tasks
@@ -37,11 +19,3 @@ cssclasses:
     - [ ] WaniKani
     - [ ] Bunpro
     - [ ] Duolingo
-- [ ] Task 2
-- [ ] Task 3
-
-```rust
-println!("Hello, World!");
-```
-
-![[Pasted image 20241214003145.png]]
