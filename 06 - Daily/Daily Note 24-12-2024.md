@@ -15,7 +15,7 @@ cssclasses:
 
 ***
 ### Tasks
-- [ ] Japanese Study
-    - [ ] WaniKani
-    - [ ] Bunpro
-    - [ ] Duolingo
+- [x] Japanese Study
+    - [x] WaniKani
+    - [x] Bunpro
+    - [x] Duolingo
