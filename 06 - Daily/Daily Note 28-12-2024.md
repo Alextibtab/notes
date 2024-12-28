@@ -12,7 +12,7 @@ cssclasses:
 ## Saturday, December 28th, 2024
 ***
 ### Journal
- 
+
 ***
 ### Tasks
 - [ ] Japanese Study
