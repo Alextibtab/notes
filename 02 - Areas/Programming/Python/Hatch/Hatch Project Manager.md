@@ -65,7 +65,7 @@ features = [
 
 [tool.hatch.envs.docs.scripts]
 build = "mkdocs build --clean --strict"
-server = "mkdocs serve --dev-addr localhost:8000"
+serve = "mkdocs serve --dev-addr localhost:8000"
 ```
 
 the above example shows configuring an additional `docs` environment which you can also add custom scripts
