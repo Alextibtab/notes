@@ -5,10 +5,10 @@ tags:
   - kanji
 cssclasses:
 ---
-# Kanji: <% tp.system.prompt("Kanji") %>
 
-### Readings
-On'yomi: <% tp.system.prompt("On'yomi Reading?") %>
-Kun'yomi: <% tp.system.prompt("Kun'yomi Reading?") %>
-
+| Kanji~ { "text-align": "center" }               | <                                       | <                                     |
+| ----------------------------------------------- | --------------------------------------- | ------------------------------------- |
+| ~ { "text-align": "center", "font-size": "7em"} | <                                       | <                                     |
+| **On'yomi**~ { "text-align": "center"}          | **Kun'yomi**~ { "text-align": "center"} | **Nanori**~ { "text-align": "center"} |
+| ~ { "text-align": "center"}                     | ~ { "text-align": "center"}             | ~ { "text-align": "center"}           |
 ## Examples
