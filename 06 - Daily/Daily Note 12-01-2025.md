@@ -1,15 +1,15 @@
 ---
-Date: <%tp.date.now("YYYY-MM-DD")%>T<%tp.date.now("HH:mm")%>
+Date: 2025-01-12T05:03
 tags:
     - daily
-    <% "- " + tp.date.now("MMMM", 0, tp.file.title, "DD-MM-YYYY") %>
-    <% "- Y" + tp.date.now("YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
+    - January
+    - Y2025
 cssclasses:
     - daily
-    <% "- " + tp.date.now("dddd", 0, tp.file.title, "DD-MM-YYYY").toLowerCase() %>
+    - sunday
 ---
 # DAILY NOTE
-## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
+## Sunday, January 12th, 2025
 ***
 ### Journal
 
