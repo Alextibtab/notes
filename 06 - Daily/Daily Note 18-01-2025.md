@@ -1,15 +1,15 @@
 ---
-Date: 2025-01-17T17:19
+Date: 2025-01-18T06:38
 tags:
     - daily
     - January
     - Y2025
 cssclasses:
     - daily
-    - friday
+    - saturday
 ---
 # DAILY NOTE
-## Friday, January 17th, 2025
+## Saturday, January 18th, 2025
 ***
 ### Journal
 
@@ -19,7 +19,7 @@ cssclasses:
 
 ***
 ### Tasks
-- [x] Japanese Study
+- [ ] Japanese Study
     - [ ] WaniKani
-    - [x] Bunpro
-    - [x] Duolingo
+    - [ ] Bunpro
+    - [ ] Duolingo
