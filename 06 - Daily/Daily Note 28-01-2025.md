@@ -1,15 +1,15 @@
 ---
-Date: 2025-01-26T14:02
+Date: 2025-01-28T19:45
 tags:
     - daily
     - January
     - Y2025
 cssclasses:
     - daily
-    - monday
+    - tuesday
 ---
 # DAILY NOTE
-## Monday, January 27th, 2025
+## Tuesday, January 28th, 2025
 ***
 ### Journal
 
