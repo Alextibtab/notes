@@ -6,10 +6,10 @@ tags:
     - Y2025
 cssclasses:
     - daily
-    - wednesday
+    - thursday
 ---
 # DAILY NOTE
-## Wednesday, January 29th, 2025
+## Thursday, January 30th, 2025
 ***
 ### Journal
 
@@ -19,7 +19,7 @@ cssclasses:
 
 ***
 ### Tasks
-- [x] Japanese Study
-    - [x] WaniKani
-    - [x] Bunpro
-    - [x] Duolingo
+- [ ] Japanese Study
+    - [ ] WaniKani
+    - [ ] Bunpro
+    - [ ] Duolingo
