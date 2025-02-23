@@ -1,5 +1,6 @@
 ---
 Area: Japanese Learning
+Stroke Count: 
 tags:
   - japanese
   - kanji
