@@ -6,10 +6,10 @@ tags:
     - Y2025
 cssclasses:
     - daily
-    - tuesday
+    - monday
 ---
 # DAILY NOTE
-## Tuesday, February 25th, 2025
+## Monday, February 24th, 2025
 ***
 ### Journal
 
