@@ -13,8 +13,7 @@ cssclasses:
 ***
 ### Private Daily
 
-![[private-notes/06 - Daily/Daily Note 03-03-2025]]
-
+![[private-notes/06 - Daily/Private Daily Note 03-03-2025]]
 ### Journal
 
 #### 09:00

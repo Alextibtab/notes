@@ -13,7 +13,7 @@ cssclasses:
 ***
 ### Private Daily
 
-![[private-notes/06 - Daily/Daily Note <% tp.date.now("DD-MM-YYYY") %>]](Test)
+![[private-notes/06 - Daily/Private Daily Note <% tp.date.now("DD-MM-YYYY") %>]]
 
 ### Journal
 
