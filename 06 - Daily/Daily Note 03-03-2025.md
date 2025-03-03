@@ -12,8 +12,8 @@ cssclasses:
 ## Monday, March 3rd, 2025
 ***
 ### Private Daily
-
 ![[private-notes/06 - Daily/Private Daily Note 03-03-2025]]
+
 ### Journal
 
 #### 09:00
@@ -22,7 +22,7 @@ cssclasses:
 
 ***
 ### Tasks
-- [ ] Japanese Study
-    - [ ] WaniKani
-    - [ ] Bunpro
-    - [ ] Duolingo
+- [x] Japanese Study
+    - [x] WaniKani
+    - [x] Bunpro
+    - [x] Duolingo

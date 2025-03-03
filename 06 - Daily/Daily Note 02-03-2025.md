@@ -11,6 +11,9 @@ cssclasses:
 # DAILY NOTE
 ## Sunday, March 2nd, 2025
 ***
+### Private Daily
+![[private-notes/06 - Daily/Private Daily Note 02-03-2025]]
+
 ### Journal
 
 #### 09:00
