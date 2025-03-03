@@ -11,6 +11,9 @@ cssclasses:
 # DAILY NOTE
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
 ***
+### Private Daily
+[[private-notes/06 - Daily/Daily Note <% tp.date.now("DD-MM-YYYY") %>]]
+
 ### Journal
 
 #### 09:00
