@@ -12,7 +12,8 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
 ***
 ### Private Daily
-[[private-notes/06 - Daily/Daily Note <% tp.date.now("DD-MM-YYYY") %>]]
+
+![[private-notes/06 - Daily/Daily Note <% tp.date.now("DD-MM-YYYY") %>]](Test)
 
 ### Journal
 

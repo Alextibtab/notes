@@ -1,5 +1,5 @@
 ---
-Date: 2025-03-03T02:40
+Date: 2025-03-03T02:42
 tags:
     - daily
     - March
@@ -12,7 +12,8 @@ cssclasses:
 ## Monday, March 3rd, 2025
 ***
 ### Private Daily
-[[private-notes/06 - Daily/Daily Note 03-03-2025]]
+
+![[private-notes/06 - Daily/Daily Note 03-03-2025]]
 
 ### Journal
 
