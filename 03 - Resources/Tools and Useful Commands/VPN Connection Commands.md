@@ -1,3 +1,9 @@
+---
+tags:
+  - resource
+  - cheatsheet
+  - linux
+---
 # TryHackMe
 ```bash
 sudo openvpn ~/TryHackMe/Access/Alextibtab.ovpn

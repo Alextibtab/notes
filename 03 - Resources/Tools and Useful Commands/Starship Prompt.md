@@ -1,3 +1,11 @@
+---
+tags:
+  - resource
+  - linux
+  - ricing
+  - terminal
+  - shell
+---
 TODO
 research starship might be better alternative for oh-my-posh
 also built on Rust which is neat

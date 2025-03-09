@@ -13,7 +13,7 @@ cssclasses:
 ***
 ### Private Daily
 
-z
+
 ### Journal
 
 #### 09:00
