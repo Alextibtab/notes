@@ -1,19 +1,19 @@
 ---
-Date: 2025-03-09T15:59
+Date: 2025-03-11T04:34
 tags:
     - daily
     - March
     - Y2025
 cssclasses:
     - daily
-    - sunday
+    - tuesday
 ---
 # DAILY NOTE
-## Sunday, March 9th, 2025
+## Tuesday, March 11th, 2025
 ***
 ### Private Daily
 
-![[private-notes/06 - Daily/Private Daily Note 09-03-2025]]
+![[private-notes/06 - Daily/Private Daily Note 11-03-2025]]
 
 ### Journal
 
