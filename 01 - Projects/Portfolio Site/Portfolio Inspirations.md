@@ -18,3 +18,5 @@ https://www.xcarter93.com/ cool portfolio that emulates the VSCode UI
 https://www.abgd.it nice website smooth page transitions could be good to look at some of the sources they list
 
 https://fiddle.digital/ look into the code for the hover effect over the image/gif
+
+https://www.woanminecraftfolio.com/ cool minecraft portfolio
