@@ -13,4 +13,8 @@ https://hariprasd.me/ has nice typography site loads a bit slow but the menu res
 
 https://matteosantoro.dev/ cool retro project with inbuilt "minigame"
 
-https://www.xcarter93.com/ cool portfolio that emulates the VSCode UI 
+https://www.xcarter93.com/ cool portfolio that emulates the VSCode UI
+
+https://www.abgd.it nice website smooth page transitions could be good to look at some of the sources they list
+
+https://fiddle.digital/ look into the code for the hover effect over the image/gif
