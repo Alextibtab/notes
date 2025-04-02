@@ -6,10 +6,10 @@ tags:
     - Y2025
 cssclasses:
     - daily
-    - friday
+    - thursday
 ---
 # DAILY NOTE
-## Friday, March 28th, 2025
+## Thursday, March 27th, 2025
 ***
 ### Private Daily
 

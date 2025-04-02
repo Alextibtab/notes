@@ -1,19 +1,19 @@
 ---
-Date: <%tp.date.now("YYYY-MM-DD")%>T<%tp.date.now("HH:mm")%>
+Date: 2025-04-02T10:06
 tags:
     - daily
-    <% "- " + tp.date.now("MMMM", 0, tp.file.title, "DD-MM-YYYY") %>
-    <% "- Y" + tp.date.now("YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
+    - April
+    - Y2025
 cssclasses:
     - daily
-    <% "- " + tp.date.now("dddd", 0, tp.file.title, "DD-MM-YYYY").toLowerCase() %>
+    - tuesday
 ---
 # DAILY NOTE
-## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "DD-MM-YYYY") %>
+## Tuesday, April 1st, 2025
 ***
 ### Private Daily
 
-![[private-notes/06 - Daily/Private Daily Note <% tp.date.now("DD-MM-YYYY") %>]]
+![[private-notes/06 - Daily/Private Daily Note 02-04-2025]]
 
 ### Journal
 
@@ -23,7 +23,7 @@ cssclasses:
 
 ***
 ### Tasks
-- [ ] Japanese Study
-    - [ ] WaniKani
-    - [ ] Bunpro
+- [x] Japanese Study
+    - [x] WaniKani
+    - [x] Bunpro
     - [ ] Duolingo

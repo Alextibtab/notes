@@ -1,15 +1,15 @@
 ---
-Date: 2025-04-02T10:05
+Date: 2025-04-02T10:06
 tags:
     - daily
     - March
     - Y2025
 cssclasses:
     - daily
-    - friday
+    - monday
 ---
 # DAILY NOTE
-## Friday, March 28th, 2025
+## Monday, March 31st, 2025
 ***
 ### Private Daily
 
